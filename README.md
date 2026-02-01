@@ -1,2 +1,2 @@
 # hello-world
-This is Assignemt-2
+I am a 3rd year AI student
